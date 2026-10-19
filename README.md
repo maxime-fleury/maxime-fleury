@@ -4,6 +4,8 @@
 
 I build tools that make everyday life easier. Sometimes that means automating a recurring chore; sometimes it means building so many apps that I need a launcher to manage them all.
 
+I also enjoy small experiments: trying an idea, seeing what happens and turning it into something useful or just fun. AI News Radio is one of those experiments. Not every project needs to become a big product.
+
 I spent over four years at CASIS, a cardiac imaging startup, working on web applications, Linux infrastructure, deployments and networking. I also supervised a work-study developer.
 
 **[Explore my portfolio](https://maxime-fleury.is-a.dev/?lang=en)** · [Version française](https://maxime-fleury.is-a.dev/) · [Contact](mailto:maxfdev@gmail.com)
@@ -31,6 +33,12 @@ Built with Bun, JavaScript and Bootstrap, with task management, a PowerShell scr
 ### [AI News Radio](https://github.com/maxime-fleury/AINewsRadio)
 
 A fun experiment with a personalised, continuous news radio. It gathers news, turns it into a spoken show and lets me interact with it by asking questions or choosing topics, with a synchronised transcript and replay.
+
+### [random-list](https://github.com/maxime-fleury/random-list)
+
+A small tool that came in handy when playing games with friends. When there were too many of us for one game, it helped us organise the players and randomly split everyone into teams. A simple project, built for a real situation.
+
+[Try it](https://maxime-fleury.github.io/random-list/)
 
 ## What I work with
 
